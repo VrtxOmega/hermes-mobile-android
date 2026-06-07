@@ -1,0 +1,16 @@
+.gradle/
+build/
+local.properties
+app/build/
+*.iml
+
+# Local verification artifacts
+device-verification/
+*.log
+*.hprof
+
+# Android/editor local state
+.idea/
+captures/
+*.apk
+*.aab
