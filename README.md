@@ -2,7 +2,6 @@
 
 Native Kotlin/Jetpack Compose Android client for using a Hermes Agent desktop dashboard or gateway from a phone over a private network.
 
-This repository is a sanitized, public-ready mobile client export. It does not include personal backend URLs, credentials, cookies, screenshots, logs, local session data, or device verification artifacts.
 
 ## What This Is
 
