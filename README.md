@@ -51,6 +51,8 @@ See [docs/SECURITY_MODEL.md](docs/SECURITY_MODEL.md).
 
 The app expects a Hermes dashboard/gateway compatible with these endpoints:
 
+Tested against Hermes Agent **v0.16.0** contract.
+
 - `GET /api/status`
 - `GET /api/auth/providers`
 - `POST /auth/password-login`
@@ -126,5 +128,4 @@ examples/     sanitized backend environment example
 
 ## Status
 
-This is an early mobile client aimed at private-network use first. Release signing, public distribution, biometric app lock, notification hooks, broader device QA, and upstream packaging are future work.
-
+This is an early mobile client aimed at private-network use first. Tested compatibility target: **Hermes Agent v0.16.0**. Release signing, public distribution, biometric app lock, notification hooks, broader device QA, and upstream packaging are future work.
